@@ -1,0 +1,4 @@
+Experiment,Total Time (s),Avg Latency (ms),Dedup Ratio (%),Total Chunks,Uploaded Shards,Aliyun,Tencent,Huawei,Baidu
+Proposed (Full System),9.576,56.57,81.68,648,2646,882,882,882,0
+w/o SmartScheduler,25.475,171.03,82.59,653,2703,640,683,681,699
+w/o FastCDC,16.803,56.70,0.00,641,3843,1281,1281,1281,0

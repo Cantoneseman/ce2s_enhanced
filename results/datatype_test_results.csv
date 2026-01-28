@@ -1,0 +1,7 @@
+DataType,Method,DedupRatio(%),TotalChunks,NewChunks,RefChunks
+Code,Fixed-size Chunking,40.0,15,9,6
+Code,Proposed (FastCDC),93.75,16,1,15
+PDF,Fixed-size Chunking,47.6,5315,2785,2530
+PDF,Proposed (FastCDC),95.3,5490,258,5232
+Binary,Fixed-size Chunking,47.6,5025,2633,2392
+Binary,Proposed (FastCDC),95.09,5189,255,4934
