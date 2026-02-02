@@ -1,0 +1,16 @@
+Data_Type,Strategy,Storage_Overhead_Ratio,Recovery_Latency_ms,Original_Size_Bytes,Stored_Size_Bytes
+Cold_Large,3-Replica,3.000,19.28,655360,1966080
+Cold_Large,RS(4+2),1.500,61.57,655360,983040
+Cold_Large,Adaptive,1.500,60.24,655360,983040
+Cool_Medium,3-Replica,3.000,16.95,491520,1474560
+Cool_Medium,RS(4+2),1.500,59.16,491520,737280
+Cool_Medium,Adaptive,1.500,58.92,491520,737280
+Warm_Mixed,3-Replica,3.000,24.36,327680,983040
+Warm_Mixed,RS(4+2),1.500,59.00,327680,491520
+Warm_Mixed,Adaptive,1.500,62.16,327680,491520
+Hot_Small,3-Replica,3.000,10.49,122880,368640
+Hot_Small,RS(4+2),1.500,62.73,122880,184320
+Hot_Small,Adaptive,3.000,20.97,122880,368640
+VeryHot_Tiny,3-Replica,3.000,18.34,51200,153600
+VeryHot_Tiny,RS(4+2),1.500,47.53,51200,76800
+VeryHot_Tiny,Adaptive,3.000,19.55,51200,153600

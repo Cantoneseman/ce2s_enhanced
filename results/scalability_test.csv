@@ -1,0 +1,9 @@
+FileSize_MB,Method,Avg_CPU_%,Peak_Memory_MB,Total_Time_s,Throughput_MBs
+100,Baseline,0.0,268.72,8.072,12.39
+100,Proposed,0.0,287.84,3.125,32.0
+200,Baseline,0.0,477.03,16.146,12.39
+200,Proposed,0.0,501.88,6.304,31.73
+500,Baseline,0.0,1079.63,40.339,12.4
+500,Proposed,0.0,1202.67,16.651,30.03
+1000,Baseline,0.0,2089.52,80.694,12.39
+1000,Proposed,0.0,2370.37,35.74,27.98

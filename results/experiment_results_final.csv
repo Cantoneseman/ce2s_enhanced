@@ -1,5 +1,0 @@
-Phase,Method,Time(s),DedupRatio(%),TotalChunks,NewChunks,RefChunks,Throughput(MB/s)
-Micro-benchmark,Fixed-size Chunking,1.499,90.91,704,64,640,3.67
-Micro-benchmark,Proposed (FastCDC),1.176,87.87,577,70,507,3.83
-Macro-benchmark,Fixed-size Chunking,66.505,45.44,5568,3038,2530,0.65
-Macro-benchmark,Proposed (FastCDC),7.868,91.02,5748,516,5232,5.71

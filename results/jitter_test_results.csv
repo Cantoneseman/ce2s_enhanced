@@ -1,16 +1,16 @@
 Jitter(ms),Method,AvgTime(s),AvgLatency(ms)
-0,Random,11.39,169.56
-0,Greedy,1.434,21.63
-0,Smart (Proposed),3.43,51.85
-50,Random,11.223,167.08
-50,Greedy,2.326,34.68
-50,Smart (Proposed),6.687,100.56
-100,Random,12.651,188.69
-100,Greedy,3.456,50.93
-100,Smart (Proposed),5.272,78.72
-200,Random,14.095,211.28
-200,Greedy,6.408,94.52
-200,Smart (Proposed),8.286,123.86
-400,Random,17.812,265.67
-400,Greedy,10.96,162.12
-400,Smart (Proposed),13.45,200.2
+0,Random,11.804,173.99
+0,Greedy,1.444,21.54
+0,Smart (Proposed),3.47,51.77
+50,Random,11.573,169.92
+50,Greedy,2.186,32.15
+50,Smart (Proposed),5.861,87.16
+100,Random,12.447,183.7
+100,Greedy,3.651,53.65
+100,Smart (Proposed),6.473,95.6
+200,Random,14.423,212.55
+200,Greedy,6.597,95.32
+200,Smart (Proposed),7.641,110.74
+400,Random,17.931,265.09
+400,Greedy,11.446,164.77
+400,Smart (Proposed),19.566,289.64
